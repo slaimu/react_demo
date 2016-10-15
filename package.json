@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "a set of demos",
   "scripts": {
-    "start": "gulp build && lite-server"
+    "start": "gulp build && lite-server -c bs-config.json"
   },
   "repository": {
     "type": "git",
