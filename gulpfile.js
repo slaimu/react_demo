@@ -19,7 +19,8 @@ var dependencies = [
   'react-dom'
 ];
 var entryFiles = [
-  './demo1/index.js'
+  './demo1/index.js',
+  './demo2/index.js'
 ];
 /*
  |--------------------------------------------------------------------------
