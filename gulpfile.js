@@ -20,7 +20,8 @@ var dependencies = [
 ];
 var entryFiles = [
   './demo1/index.js',
-  './demo2/index.js'
+  './demo2/index.js',
+  './demo3/index.js'
 ];
 /*
  |--------------------------------------------------------------------------
