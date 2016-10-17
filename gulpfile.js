@@ -22,7 +22,8 @@ var entryFiles = [
   './demo1/index.js',
   './demo2/index.js',
   './demo3/index.js',
-  './demo4/index.js'
+  './demo4/index.js',
+  './demo5/index.js'
 ];
 /*
  |--------------------------------------------------------------------------
